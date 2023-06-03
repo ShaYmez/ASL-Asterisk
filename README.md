@@ -67,7 +67,7 @@ apt -y install \
   libpopt-dev \
   libpq-dev \
   libpri-dev \
-  libreadline-gplv2-dev \
+  libreadline-dev \
   libsnmp-dev \
   libspeex-dev \
   libspeexdsp-dev \
