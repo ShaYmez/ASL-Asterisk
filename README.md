@@ -71,7 +71,7 @@ apt -y install \
   libsnmp-dev \
   libspeex-dev \
   libspeexdsp-dev \
-  libsqlite-dev \
+  libsqlite3-dev \
   libssl-dev \
   libtonezone-dev \
   libusb-dev \
